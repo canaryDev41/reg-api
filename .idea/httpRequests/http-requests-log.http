@@ -1,0 +1,314 @@
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T014618.500.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T014519.500.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T014424.500.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T013237.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T013213.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T013159.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010518.200.json
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010501.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010459.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010444.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010435.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010413.500.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010338.200.html
+
+###
+
+GET http://localhost:8000/api/payment/1/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010211.200.json
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010148.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010136.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T010109.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T122118.200.json
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121932.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121756.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121701.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121645.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121616.500.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121524.200.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121522.200.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121503.200.html
+
+###
+
+GET http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121417.500.html
+
+###
+
+GET http://localhost:8000/api/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121400-1.404.html
+
+###
+
+GET http://localhost:8000/api/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121400.404.html
+
+###
+
+GET http://localhost:8000/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121352-1.404.html
+
+###
+
+GET http://localhost:8000/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121352.404.html
+
+###
+
+GET http://localhost:8000/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121351-1.404.html
+
+###
+
+GET http://localhost:8000/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121351.404.html
+
+###
+
+GET http://localhost:8000/http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121346.404.html
+
+###
+
+GET http://localhost:8000/http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121334.404.html
+
+###
+
+GET http://localhost:8000/http://localhost:8000/api/payment/54/check
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121331.404.html
+
+###
+
+GET http://localhost:8000/api/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-08-08T121308.404.html
+
+###
+
+GET http://localhost:8080/api/
+Accept: */*
+Cache-Control: no-cache
+
+###
+

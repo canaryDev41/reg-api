@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "omer abdelwahab",
+  "stdID": "54",
+  "email": "omer-khalid@gmail.com",
+  "phone": "999",
+  "level": null,
+  "semester": null,
+  "religion": null,
+  "nationality": null,
+  "address": null,
+  "blood": null,
+  "department_id": 1,
+  "created_at": null,
+  "updated_at": null
+}
